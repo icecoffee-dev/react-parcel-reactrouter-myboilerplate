@@ -2,6 +2,42 @@
 
 [Git guide](https://github.com/git-guides/git-push)
 
+## Getting started
+
+## Step 1
+
+```powershell
+> npm i reactrouter-parcel
+or
+> yarn add reactrouter-parcel
+```
+
+You may need to add full path like
+
+```powershell
+> npm i c:\user\username\reactrouter-parcel
+```
+
+## Step 2
+
+```powershell
+> npm install
+or 
+> yarn add 
+```
+
+To install all the dependencies and Boom !!! 
+
+Start the server via
+```powershell
+> npm start
+or
+> npm run dev
+```
+This is my very first package, let my know if their is any errors or suggestions.
+Thanks!
+
+
 All the things mentioned below are done already for you by this package.
 
 ## Setting up everything

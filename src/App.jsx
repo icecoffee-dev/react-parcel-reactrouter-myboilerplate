@@ -1,8 +1,8 @@
 const App = () => {
   return (
       <div className="welcome">
-        <h1>Hello Atulit, Start coding.</h1>
-        <h1>index.js is the entry point.</h1>
+        <h1>Thanks for installing this my friend.</h1>
+        <h2>Ready set code...</h2>
       </div>
   );
 };
