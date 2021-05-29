@@ -1,6 +1,8 @@
-# React Kinda intro
+# reactrouter-parcel
 
 [Git guide](https://github.com/git-guides/git-push)
+
+All the things mentioned below are done already for you by this package.
 
 ## Setting up everything
 

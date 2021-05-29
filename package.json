@@ -1,15 +1,16 @@
 {
-  "name": "my-react-boilerplate",
+  "name": "reactrouter-parcel",
   "version": "1.0.0",
   "description": "'Better code fast = me' ",
   "main": "index.js",
   "scripts": {
+    "start": "npm run dev",
     "format": "prettier --write \"src/**/*.{js, jsx}\"",
     "lint": "eslint \"src/**/*.{js, jsx}\" --quiet",
     "dev": "parcel src/index.html"
   },
-  "author": "'atulit'",
-  "license": "ISC",
+  "author": "atulit",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.14.3",
     "@babel/core": "^7.14.3",
@@ -33,5 +34,14 @@
   },
   "browserslist": [
     "last 2 Chrome versions"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate/issues"
+  },
+  "homepage": "https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate/#readme"
+  
 }
