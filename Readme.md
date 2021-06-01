@@ -4,6 +4,8 @@
 
 ## Getting started
 
+## Home [Page](https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate/#readme)
+
 ## Step 1
 
 ```powershell
@@ -22,21 +24,28 @@ You may need to add full path like
 
 ```powershell
 > npm install
-or 
-> yarn add 
+or
+> yarn add
 ```
 
-To install all the dependencies and Boom !!! 
+To install all the dependencies and Boom !!!
 
 Start the server via
+
 ```powershell
 > npm start
 or
 > npm run dev
 ```
+
 This is my very first package, let my know if their is any errors or suggestions.
 Thanks!
 
+---
+
+- Git [Repository](https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate.git)
+- Address [Issues](https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate/issues)
+- Home [Page](https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate/#readme)
 
 All the things mentioned below are done already for you by this package.
 
