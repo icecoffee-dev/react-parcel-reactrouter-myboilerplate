@@ -1,14 +1,15 @@
 {
   "name": "reactrouter-parcel",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "'Better code fast = me' ",
-  "main": "index.js",
+  "main": "index.html",
   "keywords": "react react-router parcel bootstrap",
   "scripts": {
-    "start": "npm run dev",
+    "start": "parcel src/index.html",
     "format": "prettier --write \"src/**/*.{js, jsx}\"",
     "lint": "eslint \"src/**/*.{js, jsx}\" --quiet",
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "author": "atulit",
   "license": "MIT",
@@ -44,5 +45,4 @@
     "url": "https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate/issues"
   },
   "homepage": "https://github.com/icecoffee-dev/react-parcel-reactrouter-myboilerplate/#readme"
-  
 }
