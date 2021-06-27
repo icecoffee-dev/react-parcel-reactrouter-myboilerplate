@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-node_modules/
-.parcel-cache/
-dist/
-.env
-.DS_Store
-coverage/
-.vscode
-=======
 # Logs
 logs
 *.log
@@ -125,4 +116,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
->>>>>>> 1de39c9 (updated boiler plate , some other fixes and removed react router)
