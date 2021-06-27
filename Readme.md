@@ -3,8 +3,13 @@
 ## Automate the process
 
 Just clone the git repo and run `bash steps.sh` to reproduce all the steps.
+
 Actions: 
 make an app folder in the current folder, initialize it and performs all the steps as mentioned in [`Steps`](#steps) below
+
+```bash
+bash steps.sh
+```
 
 ## Steps:
 
