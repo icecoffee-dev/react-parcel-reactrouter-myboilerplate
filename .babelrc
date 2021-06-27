@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 {
-  "presets": ["babel/preset-env"],
   "presets": [
+    "babel/preset-env",
     [
       "@babel/preset-react",
       {
@@ -11,17 +10,3 @@
   ],
   "plugins": ["@babel/plugin-proposal-class-properties"]
 }
-=======
-{
-  "presets": ["babel/preset-env"],
-  "presets": [
-    [
-      "@babel/preset-react",
-      {
-        "runtime": "automatic"
-      }
-    ]
-  ],
-  "plugins": ["@babel/plugin-proposal-class-properties"]
-}
->>>>>>> 1de39c9 (updated boiler plate , some other fixes and removed react router)
