@@ -4,7 +4,7 @@
 
 Just clone the git repo and run `bash steps.sh` to reproduce all the steps.
 Actions: 
-1. make an app folder in the current folder, initialize it and performs all the steps as mentioned in [`Steps`](##Steps) below
+make an app folder in the current folder, initialize it and performs all the steps as mentioned in [`Steps`](#steps) below
 
 ## Steps:
 
