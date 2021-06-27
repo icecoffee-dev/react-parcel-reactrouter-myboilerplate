@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // import React from "react";
 import ReactDOM from "react-dom";
 import { StrictMode } from "react";
@@ -11,3 +12,14 @@ ReactDOM.render(
   document.querySelector("#root")
 );
 
+=======
+import React from "react";
+import ReactDOM from "react-dom";
+import Counter from "./Components/Counter";
+ReactDOM.render(
+  <React.StrictMode>
+    <Counter />
+  </React.StrictMode>,
+  document.getElementById("root")
+);
+>>>>>>> 1de39c9 (updated boiler plate , some other fixes and removed react router)

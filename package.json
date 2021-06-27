@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "reactrouter-parcel",
   "version": "1.1.0",
   "description": "'Better code fast = me' ",
@@ -7,10 +8,26 @@
   "scripts": {
     "start": "parcel src/index.html",
     "format": "prettier --write \"src/**/*.{js, jsx}\"",
+=======
+  "name": "app",
+  "version": "2.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "parcel",
+    "bootstrap"
+  ],
+  "description": "my light weight react boilerplate with parcel support",
+  "scripts": {
+    "start": "parcel ./src/index.html --open",
+    "format": "npx prettier --write src/.",
+>>>>>>> 1de39c9 (updated boiler plate , some other fixes and removed react router)
     "lint": "eslint \"src/**/*.{js, jsx}\" --quiet",
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
+<<<<<<< HEAD
   "author": "atulit",
   "license": "MIT",
   "devDependencies": {
@@ -33,6 +50,27 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0"
+=======
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-plugin-react": "^7.24.0",
+    "parcel": "^2.0.0-beta.3.1",
+    "prettier": "2.3.2",
+    "@babel/cli": "*",
+    "@babel/core": "*",
+    "@babel/eslint-parser": "*",
+    "@babel/plugin-proposal-class-properties": "*",
+    "@babel/preset-env": "*",
+    "@babel/preset-react": "*",
+    "eslint-config-prettier": "*",
+    "eslint-plugin-import": "*",
+    "eslint-plugin-jsx-a11y": "*",
+    "eslint-plugin-react-hooks": "*"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+>>>>>>> 1de39c9 (updated boiler plate , some other fixes and removed react router)
   },
   "browserslist": [
     "last 2 Chrome versions"
