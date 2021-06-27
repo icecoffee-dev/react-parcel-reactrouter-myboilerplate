@@ -64,3 +64,6 @@ echo '
 
 npm outdated
 npm update
+
+clear
+npm run dev
